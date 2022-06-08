@@ -1,6 +1,5 @@
 Use Postman to POST this data to /albums endpoint.
 ```
-[
 {
   "albumId": 13,
   "artistName": "Beyoncé",
@@ -10,5 +9,4 @@ Use Postman to POST this data to /albums endpoint.
   "primaryGenreName": "Pop",
   "url": "https://www.youtube.com/embed/RQ9BWndKEgs?rel=0&amp;controls=0&amp;showinfo=0"
 }
-]
 ```
