@@ -80,6 +80,6 @@ app.put('/albums/:albumId', putAlbum);
 app.delete('/albums/:albumId', deleteAlbum);
 
 // SERVER
-const port = 3001;
+const port = 3000;
 const url = `http://localhost:${port}/albums`;
 app.listen(port, () => console.log(`Listening on port ${url}`));
